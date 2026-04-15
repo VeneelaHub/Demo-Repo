@@ -1,46 +1,47 @@
 # Demo-Repo
 Demo Repository
-**Product Name:** skill Bridge
 
-Project Overview:
+**Product Name:** Crewnyx
 
-Skill Bridge is a secure freelancer based platform that eliminates trust issues between clients and creators. It ensures a "Proof-of-work" system where clients can verify results before payment, and creators are guaranteed their earnings.
+## Project Overview:
 
-Why skill Bridge?
+**crewnyx** is a secure freelancer based platform that eliminates trust issues between clients and creators. It ensures a "Proof-of-work" system where clients can verify results before payment, and creators are guaranteed their earnings.
 
-**Proof-of-work:** clients can verify the final output via a secure preview system before payment.
+## Why skill Bridge?
 
-**Anti-Theft Protection:** Project files are encrypted and non-downloadable until the transaction is complete.
+* **Proof-of-work:** clients can verify the final output via a secure preview system before payment.
 
-**Payment Security:** Ensuring a "win-win" situation where freelancers get paid and clients get quality
+* **Anti-Theft Protection:** Project files are encrypted and non-downloadable until the transaction is complete.
 
-Key Features:
+* **Payment Security:** Ensuring a "win-win" situation where freelancers get paid and clients get quality
 
-**Freelancer Discovery:** All profiles are visible with Search, Portfolio, and Rating filters.
+## Key Features:
 
-**project completion upload:** After work, freelancers upload a video/file, and the system generates a Unique Code. work ( Video/Screenshot) but cannot download it yet
+* **Freelancer Discovery:** All profiles are visible with Search, Portfolio, and Rating filters.
 
-**Secure Verification System:** client enters the code to Preview the **Payment Unlock System:** (Pre-payment), only preview available.
+* **project completion upload:** After work, freelancers upload a video/file, and the system generates a Unique Code. work ( Video/Screenshot) but cannot download it yet
 
-**After payment:** Full access & Download button enabled. "Supports both Down Payment and Full Payment"
+* **Secure Verification System:** client enters the code to Preview the **Payment Unlock System:** (Pre-payment), only preview available.
 
-**Smart Rating System:** After download, clients can leave reviews which automatically update the freelancer's Global Ranking.
+* **After payment:** Full access & Download button enabled. "Supports both Down Payment and Full Payment"
 
-Tech Stack
+* **Smart Rating System:** After download, clients can leave reviews which automatically update the freelancer's Global Ranking.
 
-**Frontend Flutter / React
+## Tech Stack
 
-**Backend: Node.js
+* **Frontend:** Flutter / React
 
-**Databasel: MongoDB / MySQL
+* **Backend:** Node.js
 
-**storage: AMS 53 / Firebase
+* **Databasel:** MongoDB / MySQL
 
-**Payment: Razorpay / Stripe
+* **storage:** AMS 53 / Firebase
 
-**Video Security:** Cloud Storage + private link
+* **Payment:** Razorpay / Stripe
 
-Contributing
+* **Video Security:** Cloud Storage + private link
+
+## Contributing
 
 Contributions, issues, and feature requests are welcomel Feel free to check the issues page
 
