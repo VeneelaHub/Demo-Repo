@@ -7,7 +7,7 @@ Demo Repository
 
 **crewnyx** is a secure freelancer based platform that eliminates trust issues between clients and creators. It ensures a "Proof-of-work" system where clients can verify results before payment, and creators are guaranteed their earnings.
 
-## Why skill Bridge?
+## Why crewnyx ?
 
 * **Proof-of-work:** clients can verify the final output via a secure preview system before payment.
 
