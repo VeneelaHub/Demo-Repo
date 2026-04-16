@@ -1,12 +1,12 @@
 body {
     font-family: Arial;
-    background: hsl(0, 85%, 59%);
+    background: hwb(198 24% 6%);
     text-align: center;
     margin-top: 100px;
 }
 
 .container {
-    background: rgb(9, 192, 186);
+    background: rgb(96, 70, 208);
     padding: 20px;
     width: 300px;
     margin: auto;
@@ -23,7 +23,7 @@ input {
 button {
     padding: 10px;
     width: 100%;
-    background: #e2330b;
+    background: #e20b8c;
     color: rgb(109, 147, 159);
     border: none;
 }
